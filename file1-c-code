@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+    printf("my 1st step towards Jenkins learning");
+    return 0;
+}
